@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/grofers/Desktop/flutter_app_hello_world/flutter_app_tablayout/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/grofers/Desktop/flutter_app_hello_world/flutter_app_tablayout/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/grofers/Desktop/flutter_app_hello_world/flutter_app_tablayout/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/grofers/Desktop/flutter_app_hello_world/flutter_app_tablayout/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/grofers/Desktop/flutter_app_hello_world/flutter_app_tablayout/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/Users/grofers/Desktop/flutter_app_hello_world/flutter_app_tablayout/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/grofers/Desktop/flutter_app_hello_world/flutter_app_tablayout/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/grofers/Desktop/flutter_app_hello_world/flutter_app_tablayout/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/grofers/Desktop/flutter_app_hello_world/flutter_app_tablayout/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/grofers/Desktop/flutter_app_hello_world/flutter_app_tablayout/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/grofers/Desktop/flutter_app_hello_world/flutter_app_tablayout/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/grofers/Desktop/flutter_app_hello_world/flutter_app_tablayout/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

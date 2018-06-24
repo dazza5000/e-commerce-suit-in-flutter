@@ -1,0 +1,4 @@
+#Sat Jun 23 21:36:28 IST 2018
+base.0=/Users/grofers/Desktop/flutter_app_hello_world/flutter_app_tablayout/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
