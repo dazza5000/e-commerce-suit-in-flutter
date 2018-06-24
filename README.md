@@ -1,4 +1,4 @@
-# flutter_app_tablayout
+# E-commerce app in Flutter
 
 A new Flutter application.
 
